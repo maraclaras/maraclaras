@@ -23,8 +23,8 @@
 
 ## 🎵 Atualmente ouvindo no Spotify
 <p align="center">
-  <a href="https://open.spotify.com/user/maraclara">
-    <img src="https://novatize-spotify-readme.vercel.app/api/now-playing?background_color=1a1b26&border_color=7b56ff&text_color=9aa5ce&icon_color=7b56ff" alt="Spotify Now Playing" width="350" />
+  <a href="https://open.spotify.com/user/maraclaras">
+    <img src="https://lanyard.cnrad.dev/api/123456789012345678?theme=dark&bg=1a1b26&border=7b56ff&hideDisc=true" alt="Spotify" />
   </a>
 </p>
 
@@ -58,7 +58,7 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
   <br />
-  <sub>"The only way to do great work is to love what you do."</sub>
+  <sub>"Tomorrow does not belong to today."</sub>
   <br />
   <img src="https://komarev.com/ghpvc/?username=maraclaras&color=7b56ff&style=flat-square&label=VISITS" />
 </div>
