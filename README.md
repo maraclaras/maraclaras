@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7b56ff&height=200&section=header&text=Maria%20Clara%20✨&fontSize=70&animation=fadeIn&fontAlignY=38" />
 
-  ### 🎨 Software Engineering | UX Design | QA Testing
+  ### 🎨 Software Engineering | UX Design 
   
   *Engenheira por formação, designer por paixão.* 📍 Belo Horizonte, Brasil
   
@@ -15,9 +15,18 @@
 
 - 🎓 **Estudante:** Engenharia de Software na **PUC Minas**.
 - 💼 **Experiência:** Estagiária na **Localiza&Co**.
-- 🏆 **Destaque:** Vencedora do prêmio de *Melhor Trabalho Interdisciplinar* (Projeto Cães e Gatos).
-- 🇬🇧 **Idiomas:** Fluente em Inglês.
-- 🐈 **Interesses:** Gatos, UI/UX, Automação de Testes e Cinema.
+- 🏆 **Destaque:** Vencedora do prêmio de *Melhor Trabalho Interdisciplinar*.
+- 🇬🇧 **Idiomas:** Inglês Fluente.
+- 🐈 **Interesses:** UX/UI, Automação de Testes e Gatos.
+
+---
+
+## 🎵 Atualmente ouvindo no Spotify
+<p align="center">
+  <a href="https://open.spotify.com/user/maraclara">
+    <img src="https://novatize-spotify-readme.vercel.app/api/now-playing?background_color=1a1b26&border_color=7b56ff&text_color=9aa5ce&icon_color=7b56ff" alt="Spotify Now Playing" width="350" />
+  </a>
+</p>
 
 ---
 
