@@ -21,15 +21,6 @@
 
 ---
 
-## 🎵 Atualmente ouvindo no Spotify
-<p align="center">
-  <a href="https://open.spotify.com/user/maraclaras">
-    <img src="https://lanyard.cnrad.dev/api/123456789012345678?theme=dark&bg=1a1b26&border=7b56ff&hideDisc=true" alt="Spotify" />
-  </a>
-</p>
-
----
-
 ## 🛠️ Tech Toolkit
 
 ### 💻 Development & QA
@@ -46,19 +37,3 @@
   <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maraclaras&layout=compact&theme=transparent&title_color=7b56ff&text_color=9aa5ce" />
 </p>
 
----
-
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maraclaras&theme=dracula&no-frame=true&column=4&margin-w=15" />
-</p>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-  <br />
-  <sub>"Tomorrow does not belong to today."</sub>
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=maraclaras&color=7b56ff&style=flat-square&label=VISITS" />
-</div>
