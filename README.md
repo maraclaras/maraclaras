@@ -39,8 +39,7 @@ Gosto de pensar na tecnologia de forma completa: desde a lógica e estrutura por
 - 🏆 Vencedora do prêmio de **Melhor Trabalho Interdisciplinar**
 - 📊 Interesse especial em **Dados e Banco de Dados**
 - 🧪 Interesse em **Automação de Testes e Qualidade de Software**
-- 🇬🇧 **Inglês fluente**
-- 🐈 Apaixonada por tecnologia e gatos
+-  **Inglês fluente**
 
 ---
 
@@ -176,7 +175,7 @@ Atualmente, atuo como estagiária na **Localiza&Co**, desenvolvendo experiência
 
 ---
 
-## 📸 Um pouco da minha vibe
+## 📸 Um pouco de quem eu sou
 
 <div align="center">
   <img width="260" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" />
@@ -204,12 +203,6 @@ Atualmente, atuo como estagiária na **Localiza&Co**, desenvolvendo experiência
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=maraclaras&theme=flat&no-frame=true&no-bg=true&margin-w=10&title=Commit,Repositories,Experience,Followers" />
 </div>
-
----
-
-## 💡 Filosofia
-
-> Gosto de unir **tecnologia, dados e criatividade** para construir soluções úteis, bonitas e funcionais.
 
 ---
 
