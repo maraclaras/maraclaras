@@ -183,29 +183,17 @@ A experiência contribui para meu desenvolvimento em:
 
 ## Design e Prototipação
 
-<div align="left">
+## Design e Prototipação
 
-  <img src="https://skillicons.dev/icons?i=figma,blender" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-2563EB?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Blender-3B82F6?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+  <img src="https://img.shields.io/badge/Canva-60A5FA?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/Photoshop-2563EB?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Illustrator-3B82F6?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator" />
+</p>
 
-  <img
-    height="48"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"
-    alt="Canva"
-  />
-
-  <img
-    height="48"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"
-    alt="Photoshop"
-  />
-
-  <img
-    height="48"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"
-    alt="Illustrator"
-  />
-
-</div>
+<br>
 
 ---
 
@@ -217,16 +205,22 @@ A experiência contribui para meu desenvolvimento em:
 
 ### Técnicas
 
+# Competências
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+
+### Técnicas
+
 - Desenvolvimento de Software
 - Programação Orientada a Objetos
-- Banco de Dados
-- SQL
-- Excel
-- Power BI
+- Desenvolvimento Web
+- Banco de Dados e SQL
+- Análise de Dados
+- Excel e Power BI
 - Power Apps
 - Power Automate
-- Desenvolvimento Web
-- Análise de Dados
 - Automação de Processos
 - Automação de Testes
 - UX/UI
@@ -243,8 +237,10 @@ A experiência contribui para meu desenvolvimento em:
 - Proatividade
 - Criatividade
 - Pensamento analítico
-- Aprendizado contínuo
 - Resolução de problemas
+- Aprendizado contínuo
+- Adaptabilidade
+- Atenção aos detalhes
 
     </td>
   </tr>
