@@ -118,7 +118,7 @@ Throughout my degree, I have been developing knowledge in:
 
 ## Localiza&Co
 
-<img src="https://img.shields.io/badge/Internship-2563EB?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Internship-2563EB?style=flat-square" />
 
 I currently work as an intern at **Localiza&Co**, developing practical experience in a corporate technology environment.
 
@@ -139,11 +139,21 @@ This experience has helped me strengthen skills related to:
 
 ## Development
 
-<div align="left">
+<p align="left">
 
-  <img src="https://skillicons.dev/icons?i=java,js,cs,html,css,bootstrap" />
+  <img src="https://img.shields.io/badge/Java-2563EB?style=for-the-badge&logo=openjdk&logoColor=white" />
 
-</div>
+  <img src="https://img.shields.io/badge/JavaScript-3B82F6?style=for-the-badge&logo=javascript&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/C%23-60A5FA?style=for-the-badge&logo=csharp&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/HTML5-2563EB?style=for-the-badge&logo=html5&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/CSS3-3B82F6?style=for-the-badge&logo=css3&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Bootstrap-60A5FA?style=for-the-badge&logo=bootstrap&logoColor=white" />
+
+</p>
 
 <br>
 
@@ -183,71 +193,66 @@ This experience has helped me strengthen skills related to:
 
 ## Design and Prototyping
 
-<div align="left">
+<p align="left">
 
-  <img src="https://skillicons.dev/icons?i=figma,blender" />
+  <img src="https://img.shields.io/badge/Figma-2563EB?style=for-the-badge&logo=figma&logoColor=white" />
 
-  <img
-    height="48"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"
-    alt="Canva"
-  />
+  <img src="https://img.shields.io/badge/Blender-3B82F6?style=for-the-badge&logo=blender&logoColor=white" />
 
-  <img
-    height="48"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"
-    alt="Photoshop"
-  />
+  <img src="https://img.shields.io/badge/Canva-60A5FA?style=for-the-badge&logo=canva&logoColor=white" />
 
-  <img
-    height="48"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"
-    alt="Illustrator"
-  />
+  <img src="https://img.shields.io/badge/Photoshop-2563EB?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
 
-</div>
+  <img src="https://img.shields.io/badge/Illustrator-3B82F6?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
+
+</p>
 
 ---
 
 # Skills
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
 ### Technical Skills
 
-- Software Development
-- Object-Oriented Programming
-- Databases
-- SQL
-- Excel
-- Power BI
-- Power Apps
-- Power Automate
-- Web Development
-- Data Analysis
-- Process Automation
-- Test Automation
-- UX/UI
+<p>
+  <img src="https://img.shields.io/badge/Software_Development-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/OOP-3B82F6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Web_Development-60A5FA?style=flat-square" />
+  <img src="https://img.shields.io/badge/SQL-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data_Analysis-3B82F6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Power_BI-60A5FA?style=flat-square" />
+  <img src="https://img.shields.io/badge/Excel-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Power_Apps-3B82F6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Power_Automate-60A5FA?style=flat-square" />
+  <img src="https://img.shields.io/badge/Process_Automation-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Test_Automation-3B82F6?style=flat-square" />
+  <img src="https://img.shields.io/badge/UX%2FUI-60A5FA?style=flat-square" />
+</p>
 
-    </td>
+</td>
 
-    <td width="50%" valign="top">
+<td width="50%" valign="top">
 
 ### Soft Skills
 
-- Teamwork
-- Communication
-- Organization
-- Proactivity
-- Creativity
-- Analytical Thinking
-- Continuous Learning
-- Problem Solving
+<p>
+  <img src="https://img.shields.io/badge/Teamwork-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Communication-3B82F6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Organization-60A5FA?style=flat-square" />
+  <img src="https://img.shields.io/badge/Proactivity-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Creativity-3B82F6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Analytical_Thinking-60A5FA?style=flat-square" />
+  <img src="https://img.shields.io/badge/Problem_Solving-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Continuous_Learning-3B82F6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Adaptability-60A5FA?style=flat-square" />
+  <img src="https://img.shields.io/badge/Attention_to_Detail-2563EB?style=flat-square" />
+</p>
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 ---
