@@ -64,20 +64,18 @@
 
 <br>
 
----
-
 <img
-  align="right"
-  width="320"
-  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-  alt="Coding"
+align="right"
+width="320"
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+alt="Coding"
 />
 
-# Sobre mim
+Sobre mim
 
-Olá! Sou a **Maria Clara**, estudante de **Engenharia de Software na PUC Minas** e atualmente estagiária na **Localiza&Co**.
+Olá! Sou a Maria Clara, estudante de Engenharia de Software na PUC Minas e atualmente estagiária na Localiza&Co.
 
-Tenho interesse em construir soluções que conectem **desenvolvimento de software**, **análise de dados**, **banco de dados**, **automação de processos** e **qualidade de software**.
+Tenho interesse em construir soluções que conectem desenvolvimento de software, análise de dados, banco de dados, automação de processos e qualidade de software.
 
 Gosto de entender uma solução de ponta a ponta: desde os dados e regras de negócio até a experiência de quem utiliza o sistema.
 
@@ -85,85 +83,99 @@ Também tenho afinidade com design e criatividade, o que complementa minha visã
 
 <br>
 
-### Destaques
+Destaques
 
-- Estudante de **Engenharia de Software — PUC Minas**
-- Estagiária na **Localiza&Co**
-- Vencedora do prêmio de **Melhor Trabalho Interdisciplinar**
-- Interesse em **Análise de Dados e Banco de Dados**
-- Conhecimento em **Excel, Power Apps e Power Automate**
-- Interesse em **Automação de Processos e Automação de Testes**
-- Inglês fluente
-- Experiência com ferramentas de design e prototipação
+Estudante de Engenharia de Software — PUC Minas
+
+Estagiária na Localiza&Co
+
+Vencedora do prêmio de Melhor Trabalho Interdisciplinar
+
+Interesse em Análise de Dados e Banco de Dados
+
+Conhecimento em Excel, Power BI, Power Apps e Power Automate
+
+Interesse em Automação de Processos e Automação de Testes
+
+Inglês fluente
+
+Experiência com ferramentas de design e prototipação
 
 <br clear="right"/>
 
----
-
-# Objetivos
+Objetivos
 
 Busco desenvolver minha carreira na área de tecnologia participando de projetos que me permitam evoluir tecnicamente e compreender cada vez melhor como sistemas reais são planejados, desenvolvidos, testados e utilizados.
 
-Tenho interesse especial na interseção entre **software, dados e automação**, buscando transformar processos e informações em soluções mais eficientes.
+Tenho interesse especial na interseção entre software, dados e automação, buscando transformar processos e informações em soluções mais eficientes.
 
 <div align="center">
 
-`Análise de Dados` • `Desenvolvimento de Software` • `Banco de Dados`
+Análise de Dados • Desenvolvimento de Software • Banco de Dados
 
-`Power Platform` • `Automação de Processos` • `Automação de Testes`
+Power Platform • Automação de Processos • Automação de Testes
 
-`Qualidade de Software` • `UX/UI`
+Qualidade de Software • UX/UI
 
 </div>
 
----
+Formação Acadêmica
 
-# Formação Acadêmica
+Engenharia de Software | PUC Minas
 
-### Engenharia de Software | PUC Minas
-
-**Graduação em andamento**
+Graduação em andamento
 
 Durante a graduação, venho desenvolvendo conhecimentos relacionados a:
 
-- Programação e desenvolvimento de sistemas
-- Programação Orientada a Objetos
-- Engenharia de Software
-- Banco de Dados
-- Estruturas de Dados e Algoritmos
-- Redes de Computadores
-- Desenvolvimento Web
-- Testes e Qualidade de Software
-- Análise e Modelagem de Sistemas
+Programação e desenvolvimento de sistemas
 
-**Destaque acadêmico:** vencedora do prêmio de **Melhor Trabalho Interdisciplinar**.
+Programação Orientada a Objetos
 
----
+Engenharia de Software
 
-# Experiência Profissional
+Banco de Dados
 
-## Localiza&Co
+Estruturas de Dados e Algoritmos
+
+Redes de Computadores
+
+Desenvolvimento Web
+
+Testes e Qualidade de Software
+
+Análise e Modelagem de Sistemas
+
+Destaque acadêmico: vencedora do prêmio de Melhor Trabalho Interdisciplinar.
+
+Experiência Profissional
+
+Localiza&Co
 
 <img src="https://img.shields.io/badge/Estágio-2563EB?style=flat-square&logoColor=white" />
 
-Atualmente faço parte da **Localiza&Co** como estagiária, ampliando minha experiência em um ambiente corporativo de tecnologia.
+Atualmente faço parte da Localiza&Co como estagiária, ampliando minha experiência em um ambiente corporativo de tecnologia.
 
 A experiência contribui para meu desenvolvimento em:
 
-- Resolução de problemas
-- Organização e acompanhamento de demandas
-- Trabalho colaborativo
-- Análise de informações
-- Qualidade de software
-- Comunicação em equipe
-- Automação e melhoria de processos
-- Desenvolvimento técnico e profissional
+Resolução de problemas
 
----
+Organização e acompanhamento de demandas
 
-# Tecnologias e Ferramentas
+Trabalho colaborativo
 
-## Desenvolvimento
+Análise de informações
+
+Qualidade de software
+
+Comunicação em equipe
+
+Automação e melhoria de processos
+
+Desenvolvimento técnico e profissional
+
+Tecnologias e Ferramentas
+
+Desenvolvimento
 
 <div align="left">
 
@@ -173,13 +185,15 @@ A experiência contribui para meu desenvolvimento em:
 
 <br>
 
-## Dados e Banco de Dados
+Dados e Banco de Dados
 
 <p align="left">
 
   <img src="https://img.shields.io/badge/Excel-2563EB?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 
-  <img src="https://img.shields.io/badge/MySQL-3B82F6?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-3B82F6?style=for-the-badge&logo=powerbi&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/MySQL-60A5FA?style=for-the-badge&logo=mysql&logoColor=white" />
 
   <img src="https://img.shields.io/badge/SQL_Server-60A5FA?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 
@@ -189,7 +203,7 @@ A experiência contribui para meu desenvolvimento em:
 
 <br>
 
-## Microsoft Power Platform
+Microsoft Power Platform
 
 <p align="left">
 
@@ -197,106 +211,111 @@ A experiência contribui para meu desenvolvimento em:
 
   <img src="https://img.shields.io/badge/Power_Automate-3B82F6?style=for-the-badge&logo=powerautomate&logoColor=white" />
 
-  <img src="https://img.shields.io/badge/Microsoft_Excel-60A5FA?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-60A5FA?style=for-the-badge&logo=powerbi&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Microsoft_Excel-2563EB?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 
 </p>
 
 <br>
 
-## Design e Prototipação
+Design e Prototipação
 
 <div align="left">
 
   <img src="https://skillicons.dev/icons?i=figma,blender" />
 
-  <img
-    height="48"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"
-    alt="Canva"
-  />
+<img
+ height="48"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"
+ alt="Canva"
+/>
 
-  <img
-    height="48"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"
-    alt="Photoshop"
-  />
+<img
+ height="48"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"
+ alt="Photoshop"
+/>
 
-  <img
-    height="48"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"
-    alt="Illustrator"
-  />
+<img
+ height="48"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"
+ alt="Illustrator"
+/>
 
 </div>
 
----
-
-# Competências
+Competências
 
 <table>
   <tr>
 
   <td width="50%" valign="top">
 
-### Técnicas
+Técnicas
 
-- Desenvolvimento de Software
-- Programação Orientada a Objetos
-- Banco de Dados
-- SQL
-- Excel
-- Power Apps
-- Power Automate
-- Desenvolvimento Web
-- Análise de Dados
-- Automação de Processos
-- Automação de Testes
-- UX/UI
+Desenvolvimento de Software
 
-  </td>
+Programação Orientada a Objetos
 
-  <td width="50%" valign="top">
+Banco de Dados
 
-### Interpessoais
+SQL
 
-- Trabalho em equipe
-- Comunicação
-- Organização
-- Proatividade
-- Criatividade
-- Pensamento analítico
-- Aprendizado contínuo
-- Resolução de problemas
+Excel
 
-  </td>
+Power BI
 
-  </tr>
+Power Apps
+
+Power Automate
+
+Desenvolvimento Web
+
+Análise de Dados
+
+Automação de Processos
+
+Automação de Testes
+
+Interpessoais
+
+Trabalho em equipe
+
+Comunicação
+
+Organização
+
+Proatividade
+
+Criatividade
+
+Pensamento analítico
+
+Aprendizado contínuo
+
 </table>
 
----
+Idiomas
 
-# Idiomas
+Português — Nativo
+Inglês — Fluente
 
-**Português** — Nativo  
-**Inglês** — Fluente
-
----
-
-# GitHub Analytics
+GitHub Analytics
 
 <div align="center">
 
-  <img
-    height="165"
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=maraclaras&show_icons=true&hide_border=true&bg_color=00000000&title_color=2563EB&icon_color=60A5FA&text_color=64748B&locale=pt-br"
-    alt="Estatísticas do GitHub"
-  />
+<img
+ height="165"
+ src="https://github-readme-stats-eight-theta.vercel.app/api?username=maraclaras&show_icons=true&hide_border=true&bg_color=00000000&title_color=2563EB&icon_color=60A5FA&text_color=64748B&locale=pt-br"
+ alt="Estatísticas do GitHub"
+/>
 
-  <img
-    height="165"
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maraclaras&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=2563EB&text_color=64748B&locale=pt-br"
-    alt="Linguagens mais usadas"
-  />
+<img
+ height="165"
+ src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maraclaras&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=2563EB&text_color=64748B&locale=pt-br"
+ alt="Linguagens mais usadas"
+/>
 
 </div>
 
@@ -304,24 +323,22 @@ A experiência contribui para meu desenvolvimento em:
 
 <div align="center">
 
-  <img
-    src="https://streak-stats.demolab.com?user=maraclaras&locale=pt_BR&hide_border=true&background=00000000&ring=2563EB&fire=60A5FA&currStreakLabel=2563EB&sideLabels=64748B&currStreakNum=1D4ED8&sideNums=1D4ED8&dates=94A3B8"
-    alt="GitHub Streak"
-  />
+<img
+ src="https://streak-stats.demolab.com?user=maraclaras&locale=pt_BR&hide_border=true&background=00000000&ring=2563EB&fire=60A5FA&currStreakLabel=2563EB&sideLabels=64748B&currStreakNum=1D4ED8&sideNums=1D4ED8&dates=94A3B8"
+ alt="GitHub Streak"
+/>
 
 </div>
 
----
-
-# Além do código
+Além do código
 
 <div align="center">
 
-  <img
-    width="300"
-    src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"
-    alt="Programming"
-  />
+<img
+ width="300"
+ src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"
+ alt="Programming"
+/>
 
 </div>
 
@@ -329,19 +346,17 @@ A experiência contribui para meu desenvolvimento em:
 
 Acredito que tecnologia não se resume apenas ao código.
 
-Boas soluções também dependem de **organização, análise, criatividade e atenção à experiência de quem utiliza o produto**.
+Boas soluções também dependem de organização, análise, criatividade e atenção à experiência de quem utiliza o produto.
 
 Por isso, gosto de combinar diferentes áreas no meu desenvolvimento profissional:
 
 <div align="center">
 
-`Código` • `Dados` • `Automação` • `Design` • `Qualidade`
+Código • Dados • Automação • Design • Qualidade
 
 </div>
 
----
-
-# Contato
+Contato
 
 <div align="center">
 
@@ -369,6 +384,6 @@ Por isso, gosto de combinar diferentes áreas no meu desenvolvimento profissiona
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:3B82F6,100:93C5FD&height=130&section=footer" />
 
-  <sub>Sempre aprendendo, criando e evoluindo.</sub>
+<sub>Sempre aprendendo, criando e evoluindo.</sub>
 
 </div>
