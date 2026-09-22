@@ -118,7 +118,7 @@ Durante a graduação, venho desenvolvendo conhecimentos relacionados a:
 
 ## Localiza&Co
 
-<img src="https://img.shields.io/badge/Estágio-2563EB?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Estágio-2563EB?style=flat-square" />
 
 Atualmente faço parte da **Localiza&Co** como estagiária, ampliando minha experiência em um ambiente corporativo de tecnologia.
 
@@ -139,11 +139,21 @@ A experiência contribui para meu desenvolvimento em:
 
 ## Desenvolvimento
 
-<div align="left">
+<p align="left">
 
-  <img src="https://skillicons.dev/icons?i=java,js,cs,html,css,bootstrap" />
+  <img src="https://img.shields.io/badge/Java-2563EB?style=for-the-badge&logo=openjdk&logoColor=white" />
 
-</div>
+  <img src="https://img.shields.io/badge/JavaScript-3B82F6?style=for-the-badge&logo=javascript&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/C%23-60A5FA?style=for-the-badge&logo=csharp&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/HTML5-2563EB?style=for-the-badge&logo=html5&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/CSS3-3B82F6?style=for-the-badge&logo=css3&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Bootstrap-60A5FA?style=for-the-badge&logo=bootstrap&logoColor=white" />
+
+</p>
 
 <br>
 
@@ -183,67 +193,66 @@ A experiência contribui para meu desenvolvimento em:
 
 ## Design e Prototipação
 
-## Design e Prototipação
-
 <p align="left">
-  <img src="https://img.shields.io/badge/Figma-2563EB?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Blender-3B82F6?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
-  <img src="https://img.shields.io/badge/Canva-60A5FA?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
-  <img src="https://img.shields.io/badge/Photoshop-2563EB?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/Illustrator-3B82F6?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator" />
-</p>
 
-<br>
+  <img src="https://img.shields.io/badge/Figma-2563EB?style=for-the-badge&logo=figma&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Blender-3B82F6?style=for-the-badge&logo=blender&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Canva-60A5FA?style=for-the-badge&logo=canva&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Photoshop-2563EB?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Illustrator-3B82F6?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
+
+</p>
 
 ---
 
 # Competências
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### Técnicas
-
-# Competências
-
 <table width="100%">
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
 ### Técnicas
 
-- Desenvolvimento de Software
-- Programação Orientada a Objetos
-- Desenvolvimento Web
-- Banco de Dados e SQL
-- Análise de Dados
-- Excel e Power BI
-- Power Apps
-- Power Automate
-- Automação de Processos
-- Automação de Testes
-- UX/UI
+<p>
+  <img src="https://img.shields.io/badge/Software_Development-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/POO-3B82F6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Web_Development-60A5FA?style=flat-square" />
+  <img src="https://img.shields.io/badge/SQL-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data_Analysis-3B82F6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Power_BI-60A5FA?style=flat-square" />
+  <img src="https://img.shields.io/badge/Excel-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Power_Apps-3B82F6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Power_Automate-60A5FA?style=flat-square" />
+  <img src="https://img.shields.io/badge/Process_Automation-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Test_Automation-3B82F6?style=flat-square" />
+  <img src="https://img.shields.io/badge/UX%2FUI-60A5FA?style=flat-square" />
+</p>
 
-    </td>
+</td>
 
-    <td width="50%" valign="top">
+<td width="50%" valign="top">
 
 ### Interpessoais
 
-- Trabalho em equipe
-- Comunicação
-- Organização
-- Proatividade
-- Criatividade
-- Pensamento analítico
-- Resolução de problemas
-- Aprendizado contínuo
-- Adaptabilidade
-- Atenção aos detalhes
+<p>
+  <img src="https://img.shields.io/badge/Trabalho_em_Equipe-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Comunicação-3B82F6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Organização-60A5FA?style=flat-square" />
+  <img src="https://img.shields.io/badge/Proatividade-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Criatividade-3B82F6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Pensamento_Analítico-60A5FA?style=flat-square" />
+  <img src="https://img.shields.io/badge/Resolução_de_Problemas-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Aprendizado_Contínuo-3B82F6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Adaptabilidade-60A5FA?style=flat-square" />
+  <img src="https://img.shields.io/badge/Atenção_aos_Detalhes-2563EB?style=flat-square" />
+</p>
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 ---
