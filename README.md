@@ -1,119 +1,135 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F8CFF,100:9CCBFF&height=220&section=header&text=Maria%20Clara%20✨&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:93C5FD&height=220&section=header&text=Maria%20Clara&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
-<div align="center">
-  <h3>💻 Software Engineering • 📊 Dados • 🎨 Criatividade</h3>
-  <p><em>Entre código, dados e criatividade, transformando ideias em soluções.</em></p>
-  <p>📍 Belo Horizonte, Brasil</p>
+  <h3>Software Engineering • Dados • Tecnologia</h3>
+
+  <p>
+    <em>Entre código, dados e criatividade, transformando ideias em soluções.</em>
+  </p>
+
+  <p>Belo Horizonte, Brasil</p>
 
   <a href="https://www.linkedin.com/in/maria-clara-oliveira-silva-590168195/">
-    <img src="https://img.shields.io/badge/LinkedIn-4F8CFF?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="mailto:mclaraosilva@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-8BB8FF?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-60A5FA?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
   <a href="https://github.com/maraclaras">
-    <img src="https://img.shields.io/badge/GitHub-4F8CFF?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-2563EB?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
 ---
 
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img
+  align="right"
+  width="320"
+  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+/>
 
-# 💙 Olá, eu sou a Maria Clara!
+# Sobre mim
 
-Sou estudante de **Engenharia de Software na PUC Minas** e atualmente atuo como **estagiária na Localiza&Co**.
+Olá, sou a **Maria Clara**, estudante de **Engenharia de Software na PUC Minas** e atualmente estagiária na **Localiza&Co**.
 
 Tenho interesse em construir soluções que conectem **desenvolvimento de software**, **análise de dados**, **banco de dados**, **automação de testes** e **experiência do usuário**.
 
-Gosto de pensar na tecnologia de forma completa: desde a lógica e estrutura por trás do sistema até a forma como o usuário interage com a solução.
+Gosto de entender como as soluções funcionam por completo, desde a lógica e organização dos dados até a experiência de quem utiliza o sistema.
 
 <br>
 
-## ✨ Destaques
+### Destaques
 
-- 🎓 Estudante de **Engenharia de Software — PUC Minas**
-- 💼 **Estagiária na Localiza&Co**
-- 🏆 Vencedora do prêmio de **Melhor Trabalho Interdisciplinar**
-- 📊 Interesse especial em **Dados e Banco de Dados**
-- 🧪 Interesse em **Automação de Testes e Qualidade de Software**
--  **Inglês fluente**
+- Estudante de **Engenharia de Software — PUC Minas**
+- Estagiária na **Localiza&Co**
+- Vencedora do prêmio de **Melhor Trabalho Interdisciplinar**
+- Interesse em **Dados, Banco de Dados e Desenvolvimento**
+- Interesse em **Automação de Testes e Qualidade de Software**
+- Inglês fluente
+- Experiência com ferramentas de design e prototipação
 
----
-
-## 🎀 Sobre mim
-
-Busco crescer profissionalmente na área de tecnologia, desenvolvendo soluções úteis, organizadas e bem pensadas para o usuário.
-
-Tenho interesse em áreas que unem **software, dados e criatividade**, principalmente:
-
-- **Desenvolvimento de Software**
-- **Análise de Dados**
-- **Banco de Dados**
-- **Automação de Testes**
-- **Qualidade de Software**
-- **UX/UI**
-
-Acredito que tecnologia vai além de código: ela também envolve organização, empatia com o usuário, resolução de problemas e melhoria contínua.
+<br clear="right"/>
 
 ---
 
-## 🎓 Formação Acadêmica
+# Objetivos
 
-### **Engenharia de Software — PUC Minas**
-📚 Graduação em andamento
+Busco desenvolver minha carreira em tecnologia participando de projetos que me permitam evoluir tecnicamente e compreender cada vez melhor como sistemas reais são planejados, desenvolvidos, testados e utilizados.
 
-Ao longo da graduação, venho desenvolvendo conhecimentos em:
-
-- Programação
-- Desenvolvimento Web
-- Banco de Dados
-- Engenharia de Software
-- Estrutura de Dados
-- Testes e Qualidade
-- Modelagem de Sistemas
-- Redes de Computadores
-
----
-
-## 💼 Experiência Profissional
-
-### **Localiza&Co — Estagiária**
-Atualmente, atuo como estagiária na **Localiza&Co**, desenvolvendo experiência prática em ambiente corporativo e ampliando minha visão sobre processos, tecnologia e trabalho em equipe.
-
-#### Principais aprendizados:
-- Desenvolvimento e organização de soluções
-- Resolução de problemas
-- Comunicação em equipe
-- Qualidade de software
-- Vivência corporativa
-- Evolução técnica e profissional
-
----
-
-## 🚀 Áreas de Interesse
+Tenho interesse principalmente na interseção entre:
 
 <div align="center">
 
-`Análise de Dados` • `Desenvolvimento de Software` • `Banco de Dados` • `Automação de Testes` • `Qualidade de Software` • `UX/UI`
+`Análise de Dados` • `Desenvolvimento de Software` • `Banco de Dados`
+
+`Automação de Testes` • `Qualidade de Software` • `UX/UI`
 
 </div>
 
 ---
 
-## 🛠️ Tech Toolkit
+# Formação Acadêmica
 
-### 💻 Desenvolvimento
+### Engenharia de Software | PUC Minas
+
+**Graduação em andamento**
+
+Ao longo da graduação, venho desenvolvendo conhecimentos em:
+
+- Programação e desenvolvimento de sistemas
+- Engenharia de Software
+- Banco de Dados
+- Estruturas de Dados e Algoritmos
+- Redes de Computadores
+- Desenvolvimento Web
+- Testes e Qualidade de Software
+- Análise e Modelagem de Sistemas
+
+**Destaque acadêmico:** vencedora do prêmio de **Melhor Trabalho Interdisciplinar**.
+
+---
+
+# Experiência Profissional
+
+## Localiza&Co
+
+<img src="https://img.shields.io/badge/Estágio-3B82F6?style=flat-square" />
+
+Atualmente faço parte da **Localiza&Co** como estagiária, ampliando minha experiência em um ambiente corporativo de tecnologia.
+
+A experiência contribui para meu desenvolvimento em:
+
+- Resolução de problemas
+- Organização de demandas
+- Trabalho em equipe
+- Qualidade de software
+- Comunicação
+- Desenvolvimento profissional
+- Análise e melhoria contínua de soluções
+
+---
+
+# Tecnologias
+
+## Linguagens
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,cs,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=java,js,cs" />
 </div>
 
 <br>
 
-### 📊 Dados & Banco de Dados
+## Desenvolvimento Web
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+</div>
+
+<br>
+
+## Banco de Dados
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=mysql" />
@@ -122,7 +138,7 @@ Atualmente, atuo como estagiária na **Localiza&Co**, desenvolvendo experiência
 
 <br>
 
-### 🎨 Design & Criatividade
+## Design e Criatividade
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=figma,blender" />
@@ -133,34 +149,36 @@ Atualmente, atuo como estagiária na **Localiza&Co**, desenvolvendo experiência
 
 ---
 
-## 🌟 Competências
+# Competências
 
 <table>
   <tr>
-    <td valign="top" width="50%">
-      
-### 💻 Técnicas
-- Desenvolvimento de Software  
-- Programação Orientada a Objetos  
-- Banco de Dados  
-- SQL  
-- Desenvolvimento Web  
-- Análise de Dados  
-- Automação de Testes  
-- UX/UI  
+    <td width="50%" valign="top">
+
+### Técnicas
+
+- Desenvolvimento de Software
+- Programação Orientada a Objetos
+- Banco de Dados
+- SQL
+- Desenvolvimento Web
+- Análise de Dados
+- Automação de Testes
+- UX/UI
 
 </td>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-### 🤝 Interpessoais
-- Trabalho em equipe  
-- Comunicação  
-- Organização  
-- Proatividade  
-- Criatividade  
-- Pensamento analítico  
-- Aprendizado contínuo  
-- Resolução de problemas  
+### Interpessoais
+
+- Trabalho em equipe
+- Comunicação
+- Organização
+- Proatividade
+- Criatividade
+- Pensamento analítico
+- Aprendizado contínuo
+- Resolução de problemas
 
 </td>
   </tr>
@@ -168,36 +186,26 @@ Atualmente, atuo como estagiária na **Localiza&Co**, desenvolvendo experiência
 
 ---
 
-## 🌐 Idiomas
+# Idiomas
 
-- 🇧🇷 **Português:** Nativo  
-- 🇺🇸 **Inglês:** Fluente  
-
----
-
-## 📸 Um pouco de quem eu sou
-
-<div align="center">
-  <img width="260" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" />
-  <img width="260" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
-  <img width="260" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" />
-</div>
+**Português** — Nativo  
+**Inglês** — Fluente
 
 ---
 
-## 📊 GitHub Analytics
+# GitHub Analytics
 
 <div align="center">
 
   <img
     height="165"
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=maraclaras&show_icons=true&hide_border=true&bg_color=00000000&title_color=4F8CFF&icon_color=8BB8FF&text_color=6C7A89&locale=pt-br"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=maraclaras&show_icons=true&hide_border=true&bg_color=00000000&title_color=3B82F6&icon_color=60A5FA&text_color=64748B&locale=pt-br"
     alt="Estatísticas do GitHub"
   />
 
   <img
     height="165"
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maraclaras&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=4F8CFF&text_color=6C7A89&locale=pt-br"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maraclaras&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=3B82F6&text_color=64748B&locale=pt-br"
     alt="Linguagens mais usadas"
   />
 
@@ -209,7 +217,7 @@ Atualmente, atuo como estagiária na **Localiza&Co**, desenvolvendo experiência
 
   <img
     width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=maraclaras&bg_color=ffffff00&color=6C7A89&line=4F8CFF&point=8BB8FF&area=true&area_color=B9D6FF&title_color=4F8CFF&hide_border=true&custom_title=Gráfico%20de%20Contribuições"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=maraclaras&bg_color=ffffff00&color=64748B&line=3B82F6&point=60A5FA&area=true&area_color=BFDBFE&title_color=3B82F6&hide_border=true&custom_title=Gráfico%20de%20Contribuições"
     alt="Gráfico de contribuições"
   />
 
@@ -217,16 +225,45 @@ Atualmente, atuo como estagiária na **Localiza&Co**, desenvolvendo experiência
 
 ---
 
-## 📫 Vamos nos conectar?
+# Um pouco além do código
 
 <div align="center">
 
+<img
+  width="270"
+  src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"
+/>
+
+</div>
+
+<br>
+
+Tecnologia é uma das áreas que mais despertam minha curiosidade, mas acredito que bons produtos também dependem de **criatividade, organização e atenção à experiência do usuário**.
+
+Por isso, gosto de combinar diferentes conhecimentos:
+
+<div align="center">
+
+`Código` • `Dados` • `Design` • `Qualidade` • `Criatividade`
+
+</div>
+
+---
+
+# Contato
+
+<div align="center">
+
+<p>
+  Aberta a novas conexões, experiências e oportunidades de aprendizado.
+</p>
+
 <a href="https://www.linkedin.com/in/maria-clara-oliveira-silva-590168195/">
-  <img src="https://img.shields.io/badge/LinkedIn-Maria%20Clara-4F8CFF?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Maria%20Clara-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:mclaraosilva@gmail.com">
-  <img src="https://img.shields.io/badge/Email-mclaraosilva%40gmail.com-8BB8FF?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-mclaraosilva%40gmail.com-60A5FA?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -234,9 +271,7 @@ Atualmente, atuo como estagiária na **Localiza&Co**, desenvolvendo experiência
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F8CFF,100:9CCBFF&height=120&section=footer" />
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:93C5FD&height=120&section=footer" />
 
-<div align="center">
-  <sub>💙 Sempre aprendendo, criando e evoluindo.</sub>
+  <sub>Sempre aprendendo, criando e evoluindo.</sub>
 </div>
