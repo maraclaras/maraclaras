@@ -188,20 +188,31 @@ Atualmente, atuo como estagiária na **Localiza&Co**, desenvolvendo experiência
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=maraclaras&show_icons=true&theme=transparent&title_color=4F8CFF&icon_color=8BB8FF&text_color=6C7A89&hide_border=true&border_radius=12" />
-  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maraclaras&layout=compact&theme=transparent&title_color=4F8CFF&text_color=6C7A89&hide_border=true&border_radius=12" />
+
+  <img
+    height="165"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=maraclaras&show_icons=true&hide_border=true&bg_color=00000000&title_color=4F8CFF&icon_color=8BB8FF&text_color=6C7A89&locale=pt-br"
+    alt="Estatísticas do GitHub"
+  />
+
+  <img
+    height="165"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maraclaras&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=4F8CFF&text_color=6C7A89&locale=pt-br"
+    alt="Linguagens mais usadas"
+  />
+
 </div>
 
 <br>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=maraclaras&bg_color=ffffff00&color=6C7A89&line=4F8CFF&point=8BB8FF&area=true&area_color=B9D6FF&title_color=4F8CFF&hide_border=true&custom_title=Gráfico%20de%20Contribuições" />
-</div>
 
-<br>
+  <img
+    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=maraclaras&bg_color=ffffff00&color=6C7A89&line=4F8CFF&point=8BB8FF&area=true&area_color=B9D6FF&title_color=4F8CFF&hide_border=true&custom_title=Gráfico%20de%20Contribuições"
+    alt="Gráfico de contribuições"
+  />
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maraclaras&theme=flat&no-frame=true&no-bg=true&margin-w=10&title=Commit,Repositories,Experience,Followers" />
 </div>
 
 ---
