@@ -35,31 +35,6 @@
   </a>
 
 </div>
-<div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:3B82F6,100:93C5FD&height=220&section=header&text=Maria%20Clara&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
-
-  <h3>Software Engineering • Data • Automation</h3>
-
-  <p>
-    <em>Combining code, data and creativity to turn ideas into solutions.</em>
-  </p>
-
-  <p>Belo Horizonte, Brazil</p>
-
-  <a href="https://www.linkedin.com/in/maria-clara-oliveira-silva-590168195/">
-    <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="mailto:mclaraosilva@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-3B82F6?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/maraclaras">
-    <img src="https://img.shields.io/badge/GitHub-1D4ED8?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-</div>
 
 <br>
 
@@ -74,13 +49,13 @@
 
 # About Me
 
-Hi! I'm **Maria Clara**, a **Software Engineering student at PUC Minas** and currently an **intern at Localiza&Co**.
+Hi! I'm **Maria Clara**, a **Software Engineering student at PUC Minas** and currently an intern at **Localiza&Co**.
 
 I am interested in building solutions that connect **software development**, **data analysis**, **databases**, **process automation** and **software quality**.
 
-I enjoy understanding solutions from end to end — from data structures and business rules to the experience of the people using the system.
+I enjoy understanding solutions from end to end, from data and business rules to the experience of the people using the system.
 
-I also have a strong interest in design and creativity, which complements my technical background and helps me think about solutions that are not only functional, but also intuitive, organized and user-friendly.
+I also have an interest in design and creativity, which complements my technical background and helps me think about solutions that are intuitive, organized and functional.
 
 <br>
 
@@ -238,8 +213,7 @@ This experience has helped me strengthen skills related to:
 
 <table>
   <tr>
-
-  <td width="50%" valign="top">
+    <td width="50%" valign="top">
 
 ### Technical Skills
 
@@ -257,9 +231,9 @@ This experience has helped me strengthen skills related to:
 - Test Automation
 - UX/UI
 
-  </td>
+    </td>
 
-  <td width="50%" valign="top">
+    <td width="50%" valign="top">
 
 ### Soft Skills
 
@@ -272,8 +246,7 @@ This experience has helped me strengthen skills related to:
 - Continuous Learning
 - Problem Solving
 
-  </td>
-
+    </td>
   </tr>
 </table>
 
